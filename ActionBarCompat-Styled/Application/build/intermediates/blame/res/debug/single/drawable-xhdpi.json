@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ab_stacked_solid_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\ab_stacked_solid_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_selected_focused_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\tab_selected_focused_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_location.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_location.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_ab_focused_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\spinner_ab_focused_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_unselected_focused_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\tab_unselected_focused_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_bg_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\progress_bg_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_refresh.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_ab_pressed_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\spinner_ab_pressed_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_settings.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_selected_pressed_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_unselected_pressed_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\tab_unselected_pressed_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_dropdown_panel_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\menu_dropdown_panel_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_secondary_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\progress_secondary_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_primary_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\progress_primary_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_selected_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\tab_selected_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ab_bottom_solid_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\ab_bottom_solid_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_ab_default_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\spinner_ab_default_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_ab_disabled_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\spinner_ab_disabled_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_focused_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\list_focused_styled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\ActionBarCompat-Styled\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ab_solid_styled.9.png",
+        "source": "C:\\Android\\ActionBarCompat-Styled\\Application\\src\\main\\res\\drawable-xhdpi\\ab_solid_styled.9.png"
+    }
+]
