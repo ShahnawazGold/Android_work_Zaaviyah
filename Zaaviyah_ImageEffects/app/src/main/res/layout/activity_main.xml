@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/unnamed"
+    tools:context="com.zaaviyah.zaaviyah_imageeffects.MainActivity">
+
+
+    <TextView
+        android:id="@+id/ss"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="56dp"
+        android:text="ZAAVIYAH SOLUTIONS"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/shahlogo"
+        android:layout_below="@+id/ss"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="vertical"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:onClick="gray"
+            android:text="Gray"
+            android:textColor="@android:color/background_light"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:onClick="bright"
+            android:text="Bright"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:onClick="blue"
+            android:text="blue"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:onClick="gama"
+            android:text="Red"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:onClick="green"
+            android:text="Green"
+            android:textColor="@android:color/background_light"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:onClick="dark"
+            android:text="dark"
+            android:textColor="@android:color/background_light"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</RelativeLayout>
